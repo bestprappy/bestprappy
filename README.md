@@ -23,6 +23,7 @@
 ---
 
 ## 🙋‍♂️ About Me
+
 - 🇹🇭 CS student from Thailand (nickname **Best**)
 - 🧠 Focused on **Microservices** with **Java/Spring Boot** and modern web tooling
 - 📚 **Learning now:** DevOps concepts to improve microservices (container orchestration, CI/CD, monitoring, cloud)
@@ -33,6 +34,7 @@
 ---
 
 ## 🧰 Tech Stack
+
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -76,7 +78,8 @@
 
 ---
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
+
 <div align="center">
 
 <!-- Overall Stats -->
@@ -85,23 +88,28 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestprappy&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" />
 
-
-
 </div>
 
-![snake gif](https://github.com/bestprappy/bestprappy/blob/output/github-snake-dark.svg)
+<!-- Snake contribution graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bestprappy/bestprappy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bestprappy/bestprappy/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bestprappy/bestprappy/output/github-snake.svg" />
+  </picture>
+</div>
 
 ###
 
 ---
 
 ## 🤝 Connect
+
 - 📧 Email: **prapangkorn7217@gmail.com**
 - 💼 LinkedIn: **YOUR-LINKEDIN-HERE**
 - 🌐 Portfolio: **YOUR-PORTFOLIO-URL**
 
 ---
-
 
 <!-- Footer -->
 <p align="center">
