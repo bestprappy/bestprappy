@@ -1,9 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Prapangkorn (Best) 👋</h1>
-
-<!-- GIF banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Prapangkorn%20(Best)%20&reversal=true&fontSize=50" alt="header wave" />
 </p>
 
 <p align="center">
@@ -20,7 +17,7 @@
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=bestprappy&label=Profile%20views&color=89b4fa&style=flat">
 </p>
 
----
+
 
 ## 🙋‍♂️ About Me
 
@@ -31,7 +28,7 @@
 - 📫 Reach me: **prapangkorn7217@gmail.com**
 - 🎯 **2025 Goals:** Master advanced microservices concepts (Saga/Outbox, CQRS, Event Sourcing, DDD, resilience, observability)
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -76,7 +73,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -101,15 +98,10 @@
 
 ###
 
----
-
-## 🤝 Connect
-
-- 📧 Email: **prapangkorn7217@gmail.com**
-- 💼 LinkedIn: **YOUR-LINKEDIN-HERE**
-- 🌐 Portfolio: **YOUR-PORTFOLIO-URL**
-
----
+<!-- GIF banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/94/b2/1a/94b21a17d8a954aee4e7228457d52729.gif" width="600" />
+</p>
 
 <!-- Footer -->
 <p align="center">
