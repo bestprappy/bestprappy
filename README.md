@@ -89,9 +89,7 @@
 
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bestprappy/bestprappy/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/bestprappy/bestprappy/blob/output/github-snake-dark.svg)
 
 ###
 
