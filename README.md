@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:prapangkorn7217@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prapangkorn7217%40gmail.com-1e1e2e?logo=gmail&logoColor=f38ba8&labelColor=1e1e2e"></a>
-  <a href="YOUR-LINKEDIN-HERE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-1e1e2e?logo=linkedin&logoColor=89b4fa&labelColor=1e1e2e"></a>
+  <a href="https://www.linkedin.com/in/prapangkorn-thangsathityangkul"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-1e1e2e?logo=linkedin&logoColor=89b4fa&labelColor=1e1e2e"></a>
   <a href="YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-1e1e2e?logo=firefox-browser&logoColor=cba6f7&labelColor=1e1e2e"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=bestprappy&label=Profile%20views&color=89b4fa&style=flat">
 </p>
