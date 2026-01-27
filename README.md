@@ -26,7 +26,7 @@
 - 📚 **Learning now:** DevOps concepts to improve microservices (container orchestration, CI/CD, monitoring, cloud)
 - 💬 Ask me about **Microservices (Java/Spring Boot)**
 - 📫 Reach me: **prapangkorn7217@gmail.com**
-- 🎯 **2025 Goals:** Master advanced microservices concepts (Saga/Outbox, CQRS, Event Sourcing, DDD, resilience, observability)
+- 🎯 **2026 Goals:** Master advanced microservices concepts (Saga/Outbox, CQRS, Event Sourcing, DDD, resilience, observability)
 
 
 
